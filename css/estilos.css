@@ -1,0 +1,35 @@
+h2 {
+    color: red;
+}
+
+h1 {
+    color: aqua;
+    font-size: 40px;
+}
+
+h4 {
+    color: black;
+    font-size: 30px;
+}
+
+#titulo3 {
+    color: grey;
+    font-size: 90px;
+}
+
+.green {
+    color: green;
+    font-size: 25px;
+}
+
+.letra{
+    font-size: 40px;
+}
+
+.celeste{
+    color: #00CED1;
+}
+
+.violeta{
+    color: rgb(197, 13, 214);
+}

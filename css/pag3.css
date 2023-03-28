@@ -1,0 +1,48 @@
+h1{
+    background-color: #FEFF86;
+
+    margin: 100px;
+
+    padding-top:40px;
+    padding-left:670px;
+    padding-bottom:40px;
+
+}
+
+h2{
+    background-color: aquamarine;
+
+    padding-right: 25%;
+    
+    display: inline-block;
+}
+
+p{
+    background-color: #B0DAFF;
+
+    padding: 200px;
+}
+
+a{
+    background-color: bisque;
+    display: block;
+    
+    margin: 10px;
+    padding: 40px;
+    height: 25%;
+}
+
+.columna{
+    background-color: #B2A4FF;
+    color: red;
+
+    margin: 20px;
+    padding: 20px;
+
+    width: 90%;
+    height: 70px    ;
+}
+
+.padre{
+    display: flex;
+}
